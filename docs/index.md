@@ -11,7 +11,7 @@ title: Japan Trip 2026
 - Едут две пары, всем около 30 лет.
 - Прибытие: Tokyo Narita, 19 SEP 2026, 20:55, рейс из Shanghai.
 - Примерный срок Японии: 19 SEP 2026 - около 03 OCT 2026.
-- Черновой маршрут: Tokyo, возможно Kyoto, затем Okinawa.
+- Основной маршрут: Tokyo 19-24 SEP, Kyoto/Kansai 24-28 SEP, Okinawa 28 SEP - 03 OCT.
 - После Японии:
   - одна пара летит во Вьетнам;
   - вторая пара возвращается в Москву.
@@ -21,12 +21,13 @@ title: Japan Trip 2026
 - [Маршрут](route.md)
 - [Чеклист](checklist.md)
 - [Tokyo hotels](tokyo-hotels.md)
+- [Kyoto hotels](kyoto-hotels.md)
+- [Okinawa hotels](okinawa-hotels.md)
 - [Визы и перелеты](visas-and-flights.md)
 - [Okinawa](okinawa.md)
 - [Onsen / сауны](onsen.md)
 
 ## Текущий статус
 
-- Маршрут еще не финальный.
-- По Tokyo уже есть первичный shortlist жилья.
-- Okinawa, визы, перелеты и onsen требуют отдельного разбора.
+- По Tokyo/Kyoto/Okinawa уже есть первичные shortlist жилья.
+- Визы, перелеты и финальное бронирование жилья остаются рабочими задачами.

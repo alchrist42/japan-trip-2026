@@ -6,6 +6,8 @@
 
 - `TRIP_CONTEXT.md` - внутренний краткий контекст для Codex.
 - `TOKYO_HOTELS.md` - рабочая таблица/ресерч по жилью в Tokyo.
+- `KYOTO_HOTELS.md` - рабочая таблица/ресерч по жилью в Kyoto/Kansai.
+- `OKINAWA_HOTELS.md` - рабочая таблица/ресерч по жилью на Okinawa.
 - `docs/` - публичный сайт для друзей через GitHub Pages.
 - `AGENTS.md` - правила проекта для Codex.
 
