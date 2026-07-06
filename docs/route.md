@@ -24,8 +24,65 @@ title: Маршрут
 - 24-28 SEP 2026: Kyoto.
 - 28 SEP - 03 OCT 2026: Okinawa.
 
+## Рабочая версия с Kyoto/Kansai
+
+Эта версия вдохновлена логикой маршрута Врена: за первую поездку лучше увидеть не только Tokyo, но и классическую Японию с храмами, садами, едой, onsen/ryokan и несколькими очень разными городскими районами.
+
+- 19 SEP, Sat: поздний прилет в Narita, переезд и ночевка в Tokyo.
+- 20 SEP, Sun: мягкий старт в Tokyo: Asakusa / Ueno / Akihabara, без раннего подъема.
+- 21 SEP, Mon: Tokyo-кварталы: Shibuya, Harajuku, Omotesando, Shinjuku, вечерний Kabukicho / смотровая Tokyo Metropolitan Government Building.
+- 22 SEP, Tue: Pokemon / Nintendo / аниме-день: Pokemon Center, Nintendo Tokyo, Akihabara или Ikebukuro.
+- 23 SEP, Wed: дневной выезд по погоде: Fuji/Kawaguchiko, Kamakura/Yokohama или еще один день Tokyo.
+- 24 SEP, Thu: переезд в Kansai. База: Kyoto для атмосферы или Osaka для еды, цен и логистики.
+- 25 SEP, Fri: Kyoto classic: Fushimi Inari, Higashiyama, Kiyomizu-dera, Gion.
+- 26 SEP, Sat: Kyoto west или Nara: Kinkaku-ji, Ryoan-ji, Arashiyama либо Nara + Todai-ji.
+- 27 SEP, Sun: Osaka / Universal Studios Japan / Nara / onsen-ryokan рядом с Kansai. Выбрать один главный акцент.
+- 28 SEP, Mon: перелет Kansai/Itami/Kobe -> Okinawa, заселение.
+- 29 SEP - 02 OCT: Okinawa: пляжи, еда, легкие выезды, один запасной день на погоду.
+- 03 OCT, Sat: вылет дальше: Вьетнам для одной пары, Москва/стыковки для второй.
+
+## Tier-list мест
+
+### S-tier: почти точно стоит включить
+
+- Tokyo neighborhoods: Shibuya, Shinjuku, Harajuku, Akihabara/Ikebukuro. Это "самый Tokyo" без ощущения музейной обязаловки.
+- Pokemon / Nintendo spots в Tokyo. Хорошо ложится на уже отмеченный интерес к Pokemon Go / Pokemon.
+- Kyoto: Fushimi Inari + Gion/Higashiyama. Самый понятный способ добавить классическую Японию без десятка одинаковых храмов.
+- Nara, если остается день в Kansai. Легкий однодневный выезд, парк + Todai-ji дают сильное отличие от Tokyo.
+- Okinawa. Оставляем как пляжный финал поездки и более спокойную часть для второй пары.
+
+### A-tier: очень хорошие, но выбирать по погоде и энергии
+
+- Fuji/Kawaguchiko из Tokyo. Только если прогноз нормальный: иначе можно потерять день ради облаков.
+- Osaka: Dotonbori, Shinsekai, Osaka Castle, еда. Отличный вечерний город, особенно если жить в Kansai не только ради Kyoto.
+- Universal Studios Japan / Super Nintendo World. Сильный вариант для фан-дня, но требует билетов, времени и терпимости к очередям.
+- Onsen-ryokan рядом с Kansai, например Arima Onsen. Дорого, но это один из самых японских опытов поездки.
+- Kamakura + Yokohama из Tokyo. Хороший запасной выезд, если не едем к Fuji.
+
+### B-tier: оставить как запасные варианты
+
+- Ueno museums / zoo, Tokyo Skytree, Ginza. Нормально, если рядом или плохая погода, но не ядро маршрута.
+- Himeji Castle. Классный замок, но при коротком Kansai-блоке конкурирует с Kyoto/Nara/Osaka.
+- Kobe. Приятный город на полдня-день, но не первый кандидат для первой поездки.
+- Koya-san. Очень круто с ночевкой в храме, но логистически тяжелее и может съесть слишком много времени.
+
+### C-tier: только если внезапно очень хочется
+
+- Длинные выезды уровня Hiroshima / Naoshima / Shikoku. Врен прав, что это делает маршрут разнообразным, но в нашем случае их сложно совместить с Tokyo + Kansai + Okinawa за две недели.
+- Много храмов подряд в Kyoto. Лучше 2-3 сильные точки и свободное время, чем храмовый марафон.
+- Полная неделя только Tokyo. Удобно и спокойно, но первая поездка получится менее разнообразной.
+
+## Практические заметки
+
+- JR Pass, скорее всего, не нужен; нужно отдельно посчитать после фикса дат и аэропортов.
+- Kansai-базу выбирать после жилья: Kyoto атмосфернее, Osaka часто дешевле и удобнее для еды/вечеров.
+- На Okinawa в конце сентября нужен запас по погоде: островная часть может зависеть от дождей и штормов, поэтому перелет дальше лучше не ставить слишком "впритык".
+- Шоппинг лучше не раздувать в начале поездки, особенно если едем без сдаваемого багажа.
+
 ## Решить
 
 - Оставляем неделю Tokyo или добавляем Kyoto.
 - Точная дата перелета/переезда на Okinawa.
 - Откуда удобнее улетать дальше: Tokyo, Osaka/Kansai или Okinawa.
+- Нужен ли onsen-ryokan в Kansai как отдельный дорогой опыт.
+- База в Kansai: Kyoto или Osaka.
