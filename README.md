@@ -5,44 +5,39 @@
 ## Структура
 
 - `TRIP_CONTEXT.md` - внутренний краткий контекст для Codex.
-- `TOKYO_HOTELS.md` - рабочая таблица по жилью в Tokyo.
-- `docs/` - публичный сайт для GitHub Pages.
+- `TOKYO_HOTELS.md` - рабочая таблица/ресерч по жилью в Tokyo.
+- `docs/` - публичный сайт для друзей через GitHub Pages.
 - `AGENTS.md` - правила проекта для Codex.
 
-## Публикация через GitHub Pages
+## Правило разделения
 
-1. Создать пустой GitHub repository, например `japan-trip-2026`.
-2. Добавить remote:
+- `docs/` - только то, что нормально показывать друзьям: маршрут, решения, shortlist, открытые вопросы, чеклисты.
+- Корень репы - рабочие материалы для Codex: контекст, ресерч, инструкции, черновые таблицы.
+- В `docs/` не добавлять длинные промежуточные рассуждения, сырые логи поиска, паспортные данные, номера бронирований, билеты, точные адреса жилья до поездки.
+
+## Обновление сайта
+
+1. Обновить нужные файлы в `docs/`.
+2. При необходимости кратко обновить `TRIP_CONTEXT.md`.
+3. Проверить изменения:
 
    ```bash
-   git remote add origin git@github.com:<user>/japan-trip-2026.git
+   git status --short
+   git diff
    ```
 
-3. Убедиться, что локальная ветка называется `main`:
-
-   ```bash
-   git branch -M main
-   ```
-
-4. Сделать initial commit и push:
+4. Закоммитить и отправить:
 
    ```bash
    git add .
-   git commit -m "Initial trip docs"
-   git push -u origin main
+   git commit -m "Update trip docs"
+   git push
    ```
 
-5. На GitHub открыть repository -> Settings -> Pages.
-6. В `Build and deployment` выбрать:
-   - Source: `Deploy from a branch`
-   - Branch: `main`
-   - Folder: `/docs`
-7. Нажать `Save`.
+GitHub Pages должен быть настроен на публикацию из `main` -> `/docs`.
 
-После этого сайт будет доступен по адресу:
+## Сайт
 
 ```text
-https://<user>.github.io/japan-trip-2026/
+https://alchrist42.github.io/japan-trip-2026/
 ```
-
-При каждом новом `push` изменения из папки `docs/` будут обновлять сайт.
